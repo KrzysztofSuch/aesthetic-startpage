@@ -126,7 +126,7 @@ form input:focus {
   margin-left: 1rem;
 }
 .bg {
-  height: 780px;
+  height: 0px; /*780px;*/
   position: fixed;
   width: 700px;
   margin-left: -5rem;
